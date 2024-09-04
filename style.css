@@ -18,9 +18,11 @@
 
 }
 .tur {
+    margin-top: 10px;
     height: 300px;
     width: 300px;
     background-color: aqua;
     border-radius: 50%;
+    box-shadow: 2px 0 2px 2px rgb(10, 9, 9);
 }
 
